@@ -1,0 +1,9 @@
+groq
+edge-tts
+playsound==1.2.2
+SpeechRecognition
+PyAudio
+pywhatkit
+pyautogui
+python-dotenv
+PySide6

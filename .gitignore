@@ -1,0 +1,6 @@
+.env
+kai_memory.db
+*.mp3
+__pycache__/
+venv/
+start_kai.bat
