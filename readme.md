@@ -49,7 +49,7 @@ Kai-Core/
 
 1. Clone the repo
    ```
-   git clone <your-repo-link>
+   git clone https://github.com/vishnusingh45/Kai-Core.git
    cd Kai-Core
    ```
 2. Install the dependencies
